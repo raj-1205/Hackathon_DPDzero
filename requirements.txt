@@ -1,0 +1,6 @@
+pandas
+pandasai
+chainlit
+openpyxl
+streamlit
+pyyaml
